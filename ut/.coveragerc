@@ -1,0 +1,4 @@
+[run]
+omit = 
+    ut/*
+    crypto_price_tool.py

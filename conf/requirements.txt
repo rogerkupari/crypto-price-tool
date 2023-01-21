@@ -1,0 +1,11 @@
+pip==20.0.2
+rich==12.6.0
+pytest==7.2.0
+fileconfig==0.6.1
+pytest-cov==4.0.0
+flake8==5.0.4
+requests==2.22.0
+XlsxWriter==3.0.7
+pandas==1.5.3
+pytest-order==1.0.1
+openpyxl==3.0.10
