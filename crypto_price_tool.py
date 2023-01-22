@@ -98,5 +98,3 @@ for symbol in symbols:
                                             transaction.get_operation(),
                                             transaction.get_change(),
                                             transaction.get_gecko_object().get_eur_price())
-
-report.close_excel()
